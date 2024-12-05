@@ -1,0 +1,2 @@
+Ievadi=input("Ievadi tekstu:")
+
